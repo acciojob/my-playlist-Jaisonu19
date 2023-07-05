@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+body{
+    background-color: #cccccc;
+}
+.player_one{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+.player_two{
+    background-color: white;
+    border: 1px solid grey;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+    padding: 10px;
+    border-radius: 5px;
+}
+ul{
+   list-style-type: none;
+}
+a{
+    text-decoration-line: none;
+    color: lightslategrey;
+}
+p{
+    font-family: Arial, sans-serif;
+}
